@@ -1,8 +1,10 @@
 # SemiColok    
 
 # 2019.06 강릉원주대학교 졸업 작품(논문)  
-## **It is graduation thesis**  
-## Gangneung Wonju University, Wonju Campus      
+## **It is graduation thesis**
+## and only about web source code
+## Gangneung Wonju University, Wonju Campus  
+
 
 
 - Team name:  
