@@ -2,7 +2,9 @@
 
 # 2019.06 강릉원주대학교 졸업 작품(논문)  
 ## **It is graduation thesis**
-## and only about web source code
+## and only about web source code  
+##
+##
 ## in Gangneung Wonju University, Wonju Campus  / Multimedia engineering
 
 
