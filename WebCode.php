@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect('114.71.71.235', 'hello', '123456789', 'test') or die('error connecting to mysql server');
+$conn = mysqli_connect('IP', 'userid', 'passwd', 'dbname') or die('error connecting to mysql server');
 $resultx=mysqli_query($conn,"SELECT g_code FROM Login WHERE name_emd='".$_POST['dname']."';");
 $count=mysqli_num_rows($resultx);
 $row2=mysqli_fetch_array($resultx);
